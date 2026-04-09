@@ -1,0 +1,1 @@
+print("Exercício 01: Praticando Commits Semânticos")
