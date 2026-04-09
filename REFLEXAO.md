@@ -1,4 +1,5 @@
-Reflexão sobre o Controle de Versão
+# Reflexão sobre o Uso de Git e Controle de Versão
+
 O aprendizado do controle de versão representa um marco na organização de qualquer projeto de desenvolvimento. Durante a construção deste portfólio, a experiência prática com o Git demonstrou que a ferramenta é indispensável para garantir a integridade dos arquivos e a rastreabilidade das mudanças. O uso do terminal PowerShell, embora apresente uma curva de aprendizado inicial, revelou-se uma forma eficiente de interagir com o sistema, permitindo um controle mais granular sobre cada etapa do processo.
 
 A aplicação de commits semânticos foi um dos pontos mais relevantes. No início, a necessidade de categorizar cada alteração com prefixos como feat:, fix: ou docs: pode parecer um excesso de zelo, mas a utilidade se torna clara ao observar o histórico do repositório. Um histórico bem estruturado permite entender a evolução do trabalho e identificar exatamente quando e por que cada mudança foi realizada, o que é vital para a manutenção de software a longo prazo.
